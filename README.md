@@ -1,0 +1,2 @@
+# a_i_c_n-model-AI-for-astronomers-future-updates-are-going-to-be-here-
+Hello astronomers, What is A I C N model?:its an ai Trained in googles learning machine to recognize Asteroid,Comet,ISS,nebulae How do i use it?: download the file given,then open up https://teachablemachine.withgoogle.com/train , then click "Open an existing project from a file." select the file given then click "train model" openreadmefile
